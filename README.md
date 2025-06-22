@@ -52,17 +52,12 @@ spotify-data-engineering-aws/
 
 ## 🛠️ Tech Stack
 
-**Cloud Services:**  
-Amazon S3 • AWS Glue • AWS Athena • AWS QuickSight • IAM
-
-**Languages & Frameworks:**  
-Python • SQL • PySpark
-
-**Tools & Libraries:**  
-Jupyter Notebook • Pandas • Parquet • Git
-
-**Data Formats:**  
-CSV • Parquet
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS%20Glue-ETL-blueviolet)
+![Athena](https://img.shields.io/badge/Athena-SQL-blue)
+![QuickSight](https://img.shields.io/badge/QuickSight-Visualization-yellow)
 
 ---
 
