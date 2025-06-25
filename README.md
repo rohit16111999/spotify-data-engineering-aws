@@ -193,9 +193,9 @@ AWS | Python | SQL | Data Engineering | Spotify Dataset
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/rohitmotdhare)  
-- [GitHub](https://github.com/rohitmotdhare)  
-- [Email](mailto:rohitrvm@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rohit-motdhare)  
+- [GitHub](https://github.com/rohit16111999)  
+- [Email](mailto:motdharer1999@gmail.com)
 
 ---
 
